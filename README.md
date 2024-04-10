@@ -6,4 +6,4 @@ This repository is dedicated to the Signal and System course based on Prof. Alan
 2. [examples]
 3. [MATLAB]
 
-Feel free to add any additional information or details about the content of the folders. Good luck with your course!
+Good luck with your course!
